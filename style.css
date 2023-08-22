@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content:space-evenly;
+  font-size: 24px;
+}
+
+.header-button {
+border-width: 1px;
+border-style: solid;
+padding: 5px 20px;
+border-radius: 20px;
+background-color: green;
+color: white;
+}
